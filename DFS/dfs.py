@@ -17,7 +17,6 @@ def dfs(graph, v, visited):
     print(v, end=' ')
     for next in graph[v]:
         if not visited[next]:
-            visited[next] = True
             dfs(graph, next, visited)
 
 dfs(graph, 1, visited)
