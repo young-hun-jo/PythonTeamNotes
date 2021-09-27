@@ -15,6 +15,7 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/insertion_sort.py'>Insertion Sort(삽입 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/quick_sort.py'>Quick Sort(퀵 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/counting_sort.py'>Counting Sort(계수 정렬)</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/heap_sort.py'>Heap Sort(최소/최대 힙 정렬)</a>
 ### Shortest Path(최단 경로)
 - 다익스트라(Dijksttra) 알고리즘
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/ShortestPath/dijkstra_simple.py'>간단한 방법</a>
