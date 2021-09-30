@@ -3,6 +3,7 @@
 
 ### Search(탐색)
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/tree/main/DFS'>DFS(깊이우선탐색)</a>
+    - 유방향 그래프에서 사이클 판별
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/tree/main/BFS'>BFS(너비우선탐색)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Search/linear_search.py'>Linear(Sequential) Search(선형탐색)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Search/binary_search.py'>Binary Search(이진탐색)</a>
@@ -25,3 +26,6 @@
 - 서로소 집합 자료구조
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjoint_sets.py'>서로소 집합 자료구조 알고리즘</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjiont_sets_cycle_undirected.py'>무방향 그래프에서 사이클 판별</a>
+- 신장트리
+    - 크루스칼 알고리즘
+- 위상정렬
