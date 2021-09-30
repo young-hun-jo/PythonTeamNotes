@@ -25,3 +25,6 @@
 - 서로소 집합 자료구조
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjoint_sets.py'>서로소 집합 자료구조 알고리즘</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjiont_sets_cycle_undirected.py'>무방향 그래프에서 사이클 판별</a>
+- 신장트리
+    - <a href=''>크루스칼 알고리즘</a>
+- <a href=''>위상정렬</a>
