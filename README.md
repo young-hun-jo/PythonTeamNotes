@@ -30,3 +30,12 @@
 - 신장트리
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/spanning_tree/kruskal.py'>크루스칼 알고리즘</a>
         - 전체 그래프에서 최소 신장 트리 2개로 분할하는 방법: 최초의 최소 신장 트리에서 비용이 가장 큰 간선 제거하기
+### Etc Algorithm(기타 알고리즘)
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/is_prime_number.py'>특정 수 소수(Prime Number) 판별 알고리즘</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/sieve_of_eratosthenes.py'>주어진 범위 내 다수의 소수 판별 알고리즘(에라토스테네스의 체)</a>
+- 투 포인터(Two Pointer)
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/successive_sequence_sum_by_TwoPoint.py'>특정한 합을 갖는 부분 연속 수열 찾는 알고리즘</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/merge_sort_by_TwoPoint.py'>정렬된 두 리스트 합집합 후 정렬하는 알고리즘</a>
+        - 병합 정렬(Merge Sort)에 사용됨
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/prefix_sum.py'>구간 합</a>
+    - 특정 구간의 모든 수를 합하는 알고리즘
