@@ -28,4 +28,5 @@
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjiont_sets_cycle_undirected.py'>무방향 그래프에서 사이클 판별</a>
 - 신장트리
     - 크루스칼 알고리즘
+    - 전체 그래프에서 최소 신장 트리 2개로 분할하는 방법: 최초의 최소 신장 트리에서 비용이 가장 큰 간선 제거하기
 - 위상정렬
