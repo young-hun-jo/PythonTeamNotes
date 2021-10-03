@@ -17,6 +17,7 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/quick_sort.py'>Quick Sort(퀵 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/counting_sort.py'>Counting Sort(계수 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/heap_sort.py'>Heap Sort(최소/최대 힙 정렬)</a>
+- 그래프 데이터를 사용하는 <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/topology_sort.py'>Topology Sort(위상 정렬)</a>
 ### Shortest Path(최단 경로)
 - 다익스트라(Dijksttra) 알고리즘
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/ShortestPath/dijkstra_simple.py'>간단한 방법</a>
@@ -27,6 +28,5 @@
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjoint_sets.py'>서로소 집합 자료구조 알고리즘</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/disjoint_sets/disjiont_sets_cycle_undirected.py'>무방향 그래프에서 사이클 판별</a>
 - 신장트리
-    - 크루스칼 알고리즘
-    - 전체 그래프에서 최소 신장 트리 2개로 분할하는 방법: 최초의 최소 신장 트리에서 비용이 가장 큰 간선 제거하기
-- 위상정렬
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Graph/spanning_tree/kruskal.py'>크루스칼 알고리즘</a>
+        - 전체 그래프에서 최소 신장 트리 2개로 분할하는 방법: 최초의 최소 신장 트리에서 비용이 가장 큰 간선 제거하기
