@@ -1,5 +1,7 @@
 # 소수 판별하는 함수(일반적인 방법) -> 시간 복잡도 O(X)
 def is_prime_number(x):
+    if x == 0 or x == 1:
+        return '소수 아님'
     for i in range(2, x):
         if x % i == 0:
             return '소수 아님'
@@ -10,6 +12,8 @@ import math
 
 
 def is_prime_number(x):
+    if x == 0 or x == 1:
+        return '소수 아님'
     for i in range(2, int(math.sqrt(x))+1):
         if x % i ==0:
             return '소수 아님'
