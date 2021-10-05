@@ -39,3 +39,4 @@
         - 병합 정렬(Merge Sort)에 사용됨
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/prefix_sum.py'>구간 합</a>
     - 특정 구간의 모든 수를 합하는 알고리즘
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/rotate_by_degree_90.py'>2차원 리스트 90도 회전시키기</a>
