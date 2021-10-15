@@ -35,6 +35,7 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/sieve_of_eratosthenes.py'>주어진 범위 내 다수의 소수 판별 알고리즘(에라토스테네스의 체)</a>
 - 투 포인터(Two Pointer)
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/successive_sequence_sum_by_TwoPoint.py'>특정한 합을 갖는 부분 연속 수열 찾는 알고리즘</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/longest_increasing_sequence.py'>가장 긴 증가하는 부분 수열 길이 찾는 LIS(Longest Increasing Sequence)</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/merge_sort_by_TwoPoint.py'>정렬된 두 리스트 합집합 후 정렬하는 알고리즘</a>
         - 병합 정렬(Merge Sort)에 사용됨
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/prefix_sum.py'>구간 합</a>
