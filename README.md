@@ -11,6 +11,7 @@
 ### 🌪 Dynamic Programming(동적 프로그래밍)
 - 메모제이션 기법(Top-Down 방식): <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DP/top_down.py'>재귀함수 활용</a>
 - DP 테이블 기법(Bottom-Up 방식): <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DP/bottom_up.py'>for loop 활용</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/longest_increasing_sequence.py'>가장 긴 증가하는 부분 수열 길이 찾는 LIS(Longest Increasing Sequence)</a>
 ### 🗂 Sort(정렬)
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/selection_sort.py'>Selection Sort(선택 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/insertion_sort.py'>Insertion Sort(삽입 정렬)</a>
@@ -35,7 +36,6 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/sieve_of_eratosthenes.py'>주어진 범위 내 다수의 소수 판별 알고리즘(에라토스테네스의 체)</a>
 - 투 포인터(Two Pointer)
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/successive_sequence_sum_by_TwoPoint.py'>특정한 합을 갖는 부분 연속 수열 찾는 알고리즘</a>
-    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/longest_increasing_sequence.py'>가장 긴 증가하는 부분 수열 길이 찾는 LIS(Longest Increasing Sequence)</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/merge_sort_by_TwoPoint.py'>정렬된 두 리스트 합집합 후 정렬하는 알고리즘</a>
         - 병합 정렬(Merge Sort)에 사용됨
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/prefix_sum.py'>구간 합</a>
