@@ -12,6 +12,7 @@
 - 메모제이션 기법(Top-Down 방식): <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DP/top_down.py'>재귀함수 활용</a>
 - DP 테이블 기법(Bottom-Up 방식): <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DP/bottom_up.py'>for loop 활용</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/longest_increasing_sequence.py'>가장 긴 증가하는 부분 수열 길이 찾는 LIS(Longest Increasing Sequence)</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/minimum_edit_distance.py'>한 문자열에서 다른 문자열로 편집하는 최소 연산 횟수</a>
 ### 🗂 Sort(정렬)
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/selection_sort.py'>Selection Sort(선택 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/insertion_sort.py'>Insertion Sort(삽입 정렬)</a>
