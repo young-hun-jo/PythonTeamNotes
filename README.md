@@ -49,3 +49,4 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/change_direction_left_right.py'>상,하,좌,우 왼쪽/오른쪽 방향으로 그 때마다 다른 방향으로 회전 가능한 알고리즘</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/distribute_law_percent.py'>나누기 연산자(%)는 분배법칙 가능</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/digit_sum_and_reverse_digit_using_divided_operation.py'>몫(//), 나누기(%) 연산 활용해 정수 자릿수 합, 뒤집기 구현</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/sliding_window.py'>리스트 원소 개수 별 슬라이딩 윈도우</a>
