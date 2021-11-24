@@ -4,6 +4,10 @@
 ### 🔍 Search(탐색)
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/tree/main/DFS'>DFS(깊이우선탐색)</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DFS/dfs_cycle_directed.py'>유방향 그래프에서 사이클 판별</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DFS/subset_dfs.py'>부분집합 구하기</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DFS/product_dfs.py'>중복순열 구하기</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DFS/permutation_dfs.py'>순열 구하기</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/DFS/combination_dfs.py'>조합 구하기</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/tree/main/BFS'>BFS(너비우선탐색)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Search/linear_search.py'>Linear(Sequential) Search(선형탐색)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Search/binary_search.py'>Binary Search(이진탐색)</a>
