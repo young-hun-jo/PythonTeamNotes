@@ -21,7 +21,7 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/selection_sort.py'>Selection Sort(선택 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/insertion_sort.py'>Insertion Sort(삽입 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/quick_sort.py'>Quick Sort(퀵 정렬)</a>
-- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/merge_sort.py'>Merge Sort(병합 정렬)/a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/merge_sort.py'>Merge Sort(병합 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/counting_sort.py'>Counting Sort(계수 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/heap_sort.py'>Heap Sort(최소/최대 힙 정렬)</a>
 - 그래프 데이터를 사용하는 <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/topology_sort.py'>Topology Sort(위상 정렬)</a>
