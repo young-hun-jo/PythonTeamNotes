@@ -40,3 +40,25 @@ def quick_sort(array):
 
 res = quick_sort(array)
 print(res)
+
+
+# 3. pivot을 파티션의 마지막 원소로 정한 후 구현
+# 재귀함수의 전위순회 방식
+arr = [45, 21, 23, 36, 15, 67, 11, 60, 20, 33]
+
+
+def Qsort(lt, rt):
+    if lt < rt:
+        pos = lt
+        pivot = arr[rt]
+        for i in range(lt, rt):
+            if arr[i] <= pivot:
+          s      arr[i], arr[pos] = arr[pos], arr[i]
+                pos += 1
+        arr[rt], arr[pos] = arr[pos], arr[rt]
+        Qsort(lt, pos-1)
+        Qsort(pos+1, rt)
+
+
+Qsort(0, len(arr)-1)
+print(arr)
