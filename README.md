@@ -21,6 +21,7 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/selection_sort.py'>Selection Sort(선택 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/insertion_sort.py'>Insertion Sort(삽입 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/quick_sort.py'>Quick Sort(퀵 정렬)</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/merge_sort.py'>Merge Sort(병합 정렬)/a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/counting_sort.py'>Counting Sort(계수 정렬)</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/heap_sort.py'>Heap Sort(최소/최대 힙 정렬)</a>
 - 그래프 데이터를 사용하는 <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/topology_sort.py'>Topology Sort(위상 정렬)</a>
@@ -42,7 +43,7 @@
 - 투 포인터(Two Pointer)
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/successive_sequence_sum_by_TwoPoint.py'>특정한 합을 갖는 부분 연속 수열 찾는 알고리즘</a>
     - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/merge_sort_by_TwoPoint.py'>정렬된 두 리스트 합집합 후 정렬하는 알고리즘</a>
-        - 병합 정렬(Merge Sort)에 사용됨
+        - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/Sort/merge_sort.py'>병합 정렬(Merge Sort)</a>에 사용됨
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/prefix_sum.py'>구간 합</a>
     - 특정 구간의 모든 수를 합하는 알고리즘
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/rotate_by_degree_90.py'>2차원 리스트 90도 회전시키기</a>
