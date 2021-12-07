@@ -52,3 +52,4 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/distribute_law_percent.py'>나누기 연산자(%)는 분배법칙 가능</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/digit_sum_and_reverse_digit_using_divided_operation.py'>몫(//), 나누기(%) 연산 활용해 정수 자릿수 합, 뒤집기 구현</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/sliding_window.py'>리스트 원소 개수 별 슬라이딩 윈도우</a>
+- <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/convert_decimal_n_binary.py'>10진수와 n진수 상호 변환</a>
