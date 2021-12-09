@@ -53,3 +53,6 @@
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/digit_sum_and_reverse_digit_using_divided_operation.py'>몫(//), 나누기(%) 연산 활용해 정수 자릿수 합, 뒤집기 구현</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/sliding_window.py'>리스트 원소 개수 별 슬라이딩 윈도우</a>
 - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/convert_decimal_n_binary.py'>10진수와 n진수 상호 변환</a>
+- 유클리드 호제법
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/gcd_euclid.py'>최대공약수 구하기</a>
+    - <a href='https://github.com/young-hun-jo/PythonTeamNotes/blob/main/etc/lcm_euclid.py'>최소공배수 구하기</a>
